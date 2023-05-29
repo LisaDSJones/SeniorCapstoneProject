@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (P1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Skipping... (no relevant changes detected)
+  Player.cpp
+  Game.cpp
+  ComputerPlayer.cpp
+  P1.vcxproj -> C:\Users\Lisa\CS\CS4000SeniorProject\Clue\Debug\Clue.exe
+  P1.vcxproj -> C:\Users\Lisa\CS\CS4000SeniorProject\Clue\Debug\Clue.pdb (Full PDB)
